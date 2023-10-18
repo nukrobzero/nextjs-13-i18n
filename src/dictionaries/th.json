@@ -1,0 +1,16 @@
+{
+    "navigation": {
+      "home": "หน้าแรก",
+      "about": "เกี่ยวกับ"
+    },
+    "page": {
+      "home": {
+        "title": "ยินดีต้อนรับสู่ NextJs i18n",
+        "description": "การทำหลายภาษาใน NextJs 13 App router"
+      },
+      "about": {
+        "title": "เกี่ยวกับ",
+        "description": "นี่คือหน้าเกี่ยวกับ"
+      }
+    }
+  }
